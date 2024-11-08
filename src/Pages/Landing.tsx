@@ -71,6 +71,7 @@ function Landing(){
 	};
 
 	const handleGetStarted = () => {
+
 	};
 
 	return (
